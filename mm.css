@@ -1,0 +1,40 @@
+/* General styles */
+body{
+  color: #097275;
+}
+
+
+
+.container a{
+  text-decoration: none;
+  color: rebeccapurple;
+  
+}
+  
+
+  .con{
+    position: relative;
+  }
+  .image-row {
+    
+    float: left;
+    width: 30%;
+  }
+  .im{
+   
+    float: left;
+    margin-left: 50px;
+    width: 30%;
+  
+  }
+  
+  .ime{
+
+    float: right;
+    width: 30%;
+
+  }
+  h2,h3,p{
+    text-align: center;
+    text-decoration-color: aqua;
+  }
